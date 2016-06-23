@@ -154,9 +154,6 @@ Accordion
 3. **Content:** add item content from here.
 3. **Expand Item?:** choose if want dispaly this item as expanded by default or not.
 
-##### Example:
-```
-
 Alert
 ---
 
