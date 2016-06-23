@@ -140,6 +140,20 @@ Backup
 Shortcodes
 ===
 
+
+Accordion
+---
+
+![Accordions shortcode](http://i.imgur.com/p1cgMX9.png)
+
+1. **Mode:** choose accordions mode from dropdown & the available options are:
+  * Collapse
+  * Toggle
+2. click to add accordion item.
+3. **Title:** add item title from here.
+3. **Content:** add item content from here.
+3. **Expand Item?:** choose if want dispaly this item as expanded by default or not.
+
 Alert
 ---
 
