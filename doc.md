@@ -46,7 +46,7 @@ Theme Options
 General
 ---
 
-![HomeBuilder General Options](http://i.imgur.com/EnA7cXf.png)
+![HomeBuilder General Options](http://i.imgur.com/XGdYDLK.png)
 
 1. **Display BackToTop:** you can easily on/off back to top button by toggling the switch.
 
@@ -54,11 +54,14 @@ General
 Header
 ---
 
-![HomeBuilder Header Options](http://i.imgur.com/EnA7cXf.png)
+![HomeBuilder Header Options](http://i.imgur.com/yWPLe1j.png)
 
 1. **Default Logo:** add your brand identity or logo here (HomeBuilder WordPress Theme doesn't resize or scale your logo so make sure to keep it in good shape).
 2. **Retina Logo:** add the retina version of your brand logo (HomeBuilder WordPress Theme doesn't resize or scale your logo so make sure to keep it in good shape).
-3. **Header Layout:** choose header layout to display header on each page through the site.
+3. **Header Layout:** choose header layout to display header on each page through the site. Available options are:
+  * Default
+  * Boxed
+  * Transparent
 4. **Display Top Bar:** you can disable the top bar form from header by just switching off the button.
 
 
@@ -97,7 +100,7 @@ Blog
 Social Media
 ---
 
-![HomeBuilder Social Media](http://i.imgur.com/EnA7cXf.png)
+![HomeBuilder Social Media](http://i.imgur.com/XZCj5SE.png)
 
 1. **Media:** you've unlimited possibilities, you can add almost all the social media links with icons. Just select the media name from dropdown and add your media link in link field.
 2. **Link:** place your media link here.
@@ -106,7 +109,7 @@ Social Media
 Footer
 ---
 
-![HomeBuilder Footer Options](http://i.imgur.com/EnA7cXf.png)
+![HomeBuilder Footer Options](http://i.imgur.com/BThQuIk.png)
 
 1. **Widget Area Columns:** select number of columns for footer widget area.
 2. **Display Copyright:** switch on to display footer copyright information. If you switch on then you'll be shown a textarea to add copyright information.
@@ -117,12 +120,12 @@ Custom Code
 ---
 
 ### JavaScript
-![HomeBuilder Custom JavaScript](http://i.imgur.com/EnA7cXf.png)
+![HomeBuilder Custom JavaScript](http://i.imgur.com/jxtDriP.png)
 
 1. Add your custom JavaScript in that field.
 
 ### CSS
-![HomeBuilder Custom CSS](http://i.imgur.com/EnA7cXf.png)
+![HomeBuilder Custom CSS](http://i.imgur.com/ObzsmYa.png)
 
 1. Add your custom CSS in that field.
 
@@ -130,7 +133,7 @@ Custom Code
 Backup
 ---
 
-![HomeBuilder Backup](http://i.imgur.com/EnA7cXf.png)
+![HomeBuilder Backup](http://i.imgur.com/lcn26fJ.png)
 
 1. Copy and paste your backup data here and then click on **Import a Backup** button.
 2. These arbitrary texts are actually your theme options data. You can save these text for later use as backup.
