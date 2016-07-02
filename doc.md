@@ -68,7 +68,7 @@ Header
 Page
 ---
 
-![HomeBuilder Page Options](http://i.imgur.com/EnA7cXf.png)
+![HomeBuilder Page Options](http://i.imgur.com/R2e3ZN5.png)
 
 1. **Title Layout:** choose page title layout for all pages through the site.
 2. **Sidebar Layout:** select sidebar option for pages only form dropdown and the available options are *Sidebar Left*, *Sidebar Right* and *No Sidebar*.
@@ -77,7 +77,7 @@ Page
 Service
 ---
 
-![HomeBuilder Service Options](http://i.imgur.com/EnA7cXf.png)
+![HomeBuilder Service Options](http://i.imgur.com/hnVo9Cf.png)
 
 1. **Title Layout:** choose page-title layout for all service related pages.
 2. **Service Logo:** add your service logo here to display on a sidebar on the single service page. (Default: your barnd logo will be appear)
@@ -86,7 +86,8 @@ Service
 Blog
 ---
 
-![HomeBuilder Blog Options](http://i.imgur.com/EnA7cXf.png)
+![HomeBuilder Blog Options](http://i.imgur.com/RNtuG3v.png)
+![HomeBuilder Blog Options](http://i.imgur.com/vmbdnoY.png)
 
 1. **Blog Title:** set your blog home page title text.
 2. **Title Layout:** choose page-title layout for all blog related pages.
