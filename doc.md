@@ -466,6 +466,7 @@ Testimonial Carousel
 ---
 
 ![Testimonial carousel Shortcode](http://i.imgur.com/ahvECeH.png)
+
 1. **Speed:** add duration of animation between slides.
 2. **Autoplay:** click this box to enable/disable autoplay of slider.
 3. Click to add team item on carousel.
