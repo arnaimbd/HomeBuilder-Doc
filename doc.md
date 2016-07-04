@@ -475,10 +475,3 @@ Testimonial Carousel
 ```
 [bucket_testimonials autoplay="true"][/bucket_testimonials]
 ```
-
-
-FAQ
-===
-
-We'll update it soon?
----
